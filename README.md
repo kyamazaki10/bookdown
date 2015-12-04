@@ -11,6 +11,9 @@ The list of books I have read since late 2001 in Markdown.
 ##### September
 * The Martian - Andy Weir
 
+##### August
+* A Canticle for Leibowitz - Walter M. Miller, Jr.
+
 ##### July
 * In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin - Erik Larson
 
