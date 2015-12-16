@@ -4,6 +4,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2015
 
+##### December
+* The Map That Changed the World: William Smith and the Birth of Modern Geology - Simon Winchester
+
 ##### October
 * Ready Player One - Ernest Cline
 * Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West - Stephen Ambrose
