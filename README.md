@@ -5,6 +5,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2015
 
 ##### December
+* Kafka on the Shore - Haruki Murakami
 * The Map That Changed the World: William Smith and the Birth of Modern Geology - Simon Winchester
 
 ##### October
