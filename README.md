@@ -5,6 +5,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2016
 
 ##### January
+* The Things They Carried - Tim O'Brien
 * Tropic of Cancer - Henry Miller
 
 ## 2015
