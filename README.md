@@ -4,6 +4,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2016
 
+##### February
+* The Wind-Up Bird Chronicle - Haruki Murakami
+
 ##### January
 * The Things They Carried - Tim O'Brien
 * Tropic of Cancer - Henry Miller
