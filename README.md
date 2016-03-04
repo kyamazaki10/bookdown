@@ -4,6 +4,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2016
 
+##### March
+* The Crying of Lot 49 - Thomas Pynchon
+
 ##### February
 * The Wind-Up Bird Chronicle - Haruki Murakami
 
