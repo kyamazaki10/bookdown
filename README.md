@@ -4,6 +4,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2016
 
+##### July
+* Stiff: The Curious Lives of Human Cadavers - Mary Roach
+
 ##### March
 * Do Androids Dream of Electric Sheep? - Philip K. Dick
 * Blackout: Remembering the Things I Drank to Forget - Sarah Hepola
