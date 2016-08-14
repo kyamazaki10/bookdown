@@ -4,6 +4,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2016
 
+##### August
+* Travels with Charley - John Steinbeck
+
 ##### July
 * Stiff: The Curious Lives of Human Cadavers - Mary Roach
 
