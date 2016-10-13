@@ -2,10 +2,14 @@
 
 The list of books I have read since late 2001 in Markdown.
 
+\* reread
+
+\*\* re-reread
+
 ## 2016
 
 ##### August
-* Travels with Charley - John Steinbeck
+* Travels with Charley\* - John Steinbeck
 
 ##### July
 * Stiff: The Curious Lives of Human Cadavers - Mary Roach
@@ -161,7 +165,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### September
 * The Lost Continent - Bill Bryson
-* Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values - Robert Pirsig
+* Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values\* - Robert Pirsig
 * The Adventures of Sherlock Holmes - Arthur Conan Doyle
 
 ##### July
