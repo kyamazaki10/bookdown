@@ -204,7 +204,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### October
 * A Lesson Before Dying - Ernest Gaines
-* Slaughterhouse Five - Kurt Vonnegut
+* Slaughterhouse Five\* - Kurt Vonnegut
 
 ##### September
 * Timequake - Kurt Vonnegut
@@ -303,7 +303,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### March
 * A Small Place - Jamaica Kincaid
-* The Winter of Our Discontent - John Steinbeck
+* The Winter of Our Discontent\* - John Steinbeck
 
 ##### February
 * Making History - Stephen Fry
