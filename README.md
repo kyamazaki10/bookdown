@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2016
 
+##### October
+* Lord of the Flies - William Golding
+
 ##### August
 * Travels with Charley\* - John Steinbeck
 
