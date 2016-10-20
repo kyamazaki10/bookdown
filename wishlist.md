@@ -2,7 +2,7 @@
 
 Some books to read.
 
-##### Fiction & Literature
+## Fiction & Literature
 * A Wild Sheep Chase - Haruki Murakami
 * Norwegian Wood - Haruki Murakami
 * Bucky F*cking Dent - David Duchovny
@@ -12,7 +12,7 @@ Some books to read.
 * Rabbit, Run - John Updike
 * Ordinary Grace - William Kent Krueger
 
-##### Science Fiction & Fantasy
+## Science Fiction & Fantasy
 * Foundation - Isaac Asimov
 * Cryptonomicon - Neal Stephenson
 * Seveneves - Neal Stephenson
@@ -24,11 +24,11 @@ Some books to read.
 * The Amber Spyglass: His Dark Materials - Philip Pullman
 * Stardust - Neil Gaiman
 
-##### Biographies & Memoirs
+## Biographies & Memoirs
 * Born to Run - Bruce Springsteen
 * Profiles in Courage - John F. Kennedy
 
-##### History
+## History
 * In Cold Blood - Truman Capote
 * Battle Cry of Freedom: The Civil War Era - James McPherson
 * Sea of Glory: America's Voyage of Discovery, The U.S. Exploring Expedition, 1838-1842 - Nathaniel Philbrick
@@ -37,12 +37,12 @@ Some books to read.
 * The Making of the Atomic Bomb - Richard Rhodes
 * The Art of War - Sun Tzu
 
-##### Science
+## Science
 * In Defense of Food: An Eater's Manifesto - Michael Pollan
 * The Selfish Gene - Richard Dawkins
 * The Origin of Species - Charles Darwin
 
-##### Other
+## Other
 * Outliers: The Story of Success - Malcolm Gladwell
 * Liar's Poker: Rising Through the Wreckage on Wall Street - Michael Lewis
 * Flash Boys: A Wall Street Revolt - Michael Lewis
