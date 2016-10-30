@@ -11,6 +11,8 @@ Some books to read.
 * Warrior of the Light: A Manual - Paulo Coelho
 * Rabbit, Run - John Updike
 * Ordinary Grace - William Kent Krueger
+* Straight Man - Richard Russo
+* American Pastoral - Philip Roth
 
 ## Science Fiction & Fantasy
 * Foundation - Isaac Asimov
