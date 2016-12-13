@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2016
 
+##### December
+* East of Eden\* - John Steinbeck
+
 ##### October
 * Lord of the Flies - William Golding
 
