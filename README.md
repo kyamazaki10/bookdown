@@ -9,6 +9,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2016
 
 ##### December
+* The Island of Dr. Moreau - H.G. Wells
 * The Time Machine - H.G. Wells
 * Born to Run - Bruce Springsteen
 * The Crucible - Arthur Miller
