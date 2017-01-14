@@ -6,6 +6,11 @@ The list of books I have read since late 2001 in Markdown.
 
 \*\* re-reread
 
+## 2017
+
+##### January
+* The Invisible Man - H.G. Wells
+
 ## 2016
 
 ##### December
