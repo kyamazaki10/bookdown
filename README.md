@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2017
 
+##### April
+* Rabbit, Run - John Updike
+
 ##### February
 * The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl - Timothy Egan
 
