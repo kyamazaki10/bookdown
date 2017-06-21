@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2017
 
+##### June
+* In Defense of Food: An Eater's Manifesto - Michael Pollan
+
 ##### May
 * The Call of Cthulhu - H.P. Lovecraft
 * Our Town - Thornton Wilder
