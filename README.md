@@ -8,6 +8,10 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2017
 
+##### July
+* The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing - Marie Kondo
+
+
 ##### June
 * In Defense of Food: An Eater's Manifesto - Michael Pollan
 
