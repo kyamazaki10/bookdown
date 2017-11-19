@@ -8,9 +8,11 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2017
 
+##### November
+* The Road to Little Dribbling: Adventures of an American in Britain - Bill Bryson
+
 ##### July
 * The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing - Marie Kondo
-
 
 ##### June
 * In Defense of Food: An Eater's Manifesto - Michael Pollan
@@ -155,7 +157,7 @@ The list of books I have read since late 2001 in Markdown.
 * The Grapes of Wrath - John Steinbeck
 
 ##### September
-* I'm a Stranger Here Myself - Bill Bryson
+* I'm a Stranger Here Myself: Notes on Returning to America After 20 Years Away - Bill Bryson
 * Running with Scissors - Augusten Burroughs
 * Thank You for Smoking - Christopher Buckley
 
@@ -197,7 +199,7 @@ The list of books I have read since late 2001 in Markdown.
 * The Devil Wears Prada - Lauren Weisberger
 
 ##### September
-* The Lost Continent - Bill Bryson
+* The Lost Continent: Travels in Small-Town America - Bill Bryson
 * Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values\* - Robert Pirsig
 * The Adventures of Sherlock Holmes - Arthur Conan Doyle
 
@@ -219,7 +221,7 @@ The list of books I have read since late 2001 in Markdown.
 * The Winter Queen - Boris Akunin
 
 ##### February
-* A Walk in the Woods - Bill Bryson
+* A Walk in the Woods: Rediscovering America on the Appalachian Trail - Bill Bryson
 * Surely You're Joking, Mr. Feynman - Richard Feynman
 * Peace Like a River - Leif Enger
 
