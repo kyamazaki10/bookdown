@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2017
 
+##### December
+* A Wild Sheep Chase - Haruki Murakami
+
 ##### November
 * The Road to Little Dribbling: Adventures of an American in Britain - Bill Bryson
 
