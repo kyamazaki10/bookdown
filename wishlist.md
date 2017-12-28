@@ -3,11 +3,8 @@
 Some books to read.
 
 ## Fiction & Literature
-* A Wild Sheep Chase - Haruki Murakami
 * Norwegian Wood - Haruki Murakami
 * Bucky F*cking Dent - David Duchovny
-* The Executioner's Song - Norman Mailer
-* The Naked and the Dead - Norman Mailer
 * Warrior of the Light: A Manual - Paulo Coelho
 * Ordinary Grace - William Kent Krueger
 * Straight Man - Richard Russo
@@ -19,7 +16,6 @@ Some books to read.
 * Cryptonomicon - Neal Stephenson
 * Seveneves - Neal Stephenson
 * The Martian Chronicles - Ray Bradbury
-* The Left Hand of Darkness - Ursula K. Le Guin
 * Hyperion - Dan Simmons
 * Twenty Thousand Leagues Under the Sea - Jules Verne
 * The Golden Compass: His Dark Materials - Philip Pullman
@@ -33,6 +29,8 @@ Some books to read.
 
 ## History
 * In Cold Blood - Truman Capote
+* 1776 - David McCullough
+* The Quartet: Orchestrating the Second American Revolution, 1783-1789 - Joseph J. Ellis
 * Battle Cry of Freedom: The Civil War Era - James McPherson
 * Sea of Glory: America's Voyage of Discovery, The U.S. Exploring Expedition, 1838-1842 - Nathaniel Philbrick
 * Endurance: Shackleton's Incredible Voyage - Alfred Lansing
@@ -48,6 +46,7 @@ Some books to read.
 * The Origin of Species - Charles Darwin
 
 ## Other
+* Quiet: The Power of Introverts in a World That Can't Stop Talking - Susan Cain
 * Outliers: The Story of Success - Malcolm Gladwell
 * Liar's Poker: Rising Through the Wreckage on Wall Street - Michael Lewis
 * Flash Boys: A Wall Street Revolt - Michael Lewis
