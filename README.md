@@ -9,6 +9,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2017
 
 ##### December
+* The Left Hand of Darkness - Ursula K. Le Guin
 * A Wild Sheep Chase - Haruki Murakami
 
 ##### November
