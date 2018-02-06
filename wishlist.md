@@ -21,7 +21,6 @@ Some books to read.
 * The Golden Compass: His Dark Materials - Philip Pullman
 * The Subtle Knife: His Dark Materials - Philip Pullman
 * The Amber Spyglass: His Dark Materials - Philip Pullman
-* Stardust - Neil Gaiman
 * The Forever War - Joe Haldeman
 
 ## Biographies & Memoirs
