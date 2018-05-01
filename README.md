@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2018
 
+##### April
+* Cat's Cradle\* - Kurt Vonnegut
+
 ##### March
 * In the Heart of the Sea: The Tragedy of the Whaleship Essex - Nathaniel Philbrick
 
