@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2018
 
+##### September
+* Blood and Thunder: The Epic Story of Kit Carson and the Conquest of the American West - Hampton Sides
+
 ##### April
 * Cat's Cradle\* - Kurt Vonnegut
 
