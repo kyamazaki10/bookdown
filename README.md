@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2018
 
+##### November
+* All the Light We Cannot See - Anthony Doerr
+
 ##### October
 * The Right Stuff - Tom Wolfe
 
