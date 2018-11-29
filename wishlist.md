@@ -9,7 +9,8 @@ Some books to read.
 * Ordinary Grace - William Kent Krueger
 * Straight Man - Richard Russo
 * American Pastoral - Philip Roth
-* All the Light We Cannot See - Anthony Doerr
+* The Remains of the Day - Kazuo Ishiguro
+* Flowers for Algernon - Daniel Keyes
 
 ## Science Fiction & Fantasy
 * Foundation - Isaac Asimov
@@ -25,11 +26,11 @@ Some books to read.
 
 ## Biographies & Memoirs
 * Profiles in Courage - John F. Kennedy
+* The Autobiography of Malcolm X: As Told to Alex Haley - Malcolm X, Alex Haley, Attallah Shabazz
 
 ## History
 * In Cold Blood - Truman Capote
 * 1776 - David McCullough
-* The Quartet: Orchestrating the Second American Revolution, 1783-1789 - Joseph J. Ellis
 * Battle Cry of Freedom: The Civil War Era - James McPherson
 * Sea of Glory: America's Voyage of Discovery, The U.S. Exploring Expedition, 1838-1842 - Nathaniel Philbrick
 * Endurance: Shackleton's Incredible Voyage - Alfred Lansing
@@ -37,6 +38,7 @@ Some books to read.
 * The Making of the Atomic Bomb - Richard Rhodes
 * The Art of War - Sun Tzu
 * Dead Wake: The Last Crossing of the Lusitania - Erik Larson
+* Thunderstruck: Erik Larkson
 * Ghost Soldiers: The Epic Account of World War II's Greatest Rescue Mission - Hampton Sides
 * In the Kingdom of Ice: The Grand and Terrible Polar Voyage of the USS Jeannette - Hampton Sides
 
