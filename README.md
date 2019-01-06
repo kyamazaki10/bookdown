@@ -6,6 +6,12 @@ The list of books I have read since late 2001 in Markdown.
 
 \*\* re-reread
 
+## 2019
+
+##### January
+
+* In Cold Blood - Truman Capote
+
 ## 2018
 
 ##### November
