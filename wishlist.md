@@ -7,7 +7,6 @@ Some books to read.
 * Bucky F*cking Dent - David Duchovny
 * Warrior of the Light: A Manual - Paulo Coelho
 * Ordinary Grace - William Kent Krueger
-* Straight Man - Richard Russo
 * American Pastoral - Philip Roth
 * The Remains of the Day - Kazuo Ishiguro
 * Flowers for Algernon - Daniel Keyes
@@ -25,11 +24,11 @@ Some books to read.
 * The Forever War - Joe Haldeman
 
 ## Biographies & Memoirs
+* Becoming - Michelle Obama
 * Profiles in Courage - John F. Kennedy
 * The Autobiography of Malcolm X: As Told to Alex Haley - Malcolm X, Alex Haley, Attallah Shabazz
 
 ## History
-* In Cold Blood - Truman Capote
 * 1776 - David McCullough
 * Battle Cry of Freedom: The Civil War Era - James McPherson
 * Sea of Glory: America's Voyage of Discovery, The U.S. Exploring Expedition, 1838-1842 - Nathaniel Philbrick
