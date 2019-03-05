@@ -9,6 +9,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2019
 
 ##### February
+* The Forever War - Joe Haldeman
 * The Secret Sharer - Joseph Conrad
 
 ##### January
