@@ -6,6 +6,11 @@ The list of books I have read since late 2001 in Markdown.
 
 \*\* re-reread
 
+## 2020
+
+##### February
+* The Fellowship of the Ring\* - J.R.R. Tolkien
+
 ## 2019
 
 ##### December
