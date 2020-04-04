@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2020
 
+##### April
+* The Return of the King\* - J.R.R. Tolkien
+
 ##### March
 * The Two Towers\* - J.R.R. Tolkien
 
