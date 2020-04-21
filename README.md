@@ -9,6 +9,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2020
 
 ##### April
+* Starting and Closing - Perseverance, Faith, and One More Year - John Smoltz
 * The Return of the King\* - J.R.R. Tolkien
 
 ##### March
