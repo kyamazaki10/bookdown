@@ -9,6 +9,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2020
 
 ##### May
+* Steinbrenner: The Last Lion of Baseball - Bill Madden
 * Bucky F\*cking Dent - David Duchovny
 
 ##### April

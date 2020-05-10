@@ -4,7 +4,6 @@ Some books to read.
 
 ## Fiction & Literature
 * Norwegian Wood - Haruki Murakami
-* Bucky F*cking Dent - David Duchovny
 * Warrior of the Light: A Manual - Paulo Coelho
 * Ordinary Grace - William Kent Krueger
 * American Pastoral - Philip Roth
@@ -50,3 +49,6 @@ Some books to read.
 * Liar's Poker: Rising Through the Wreckage on Wall Street - Michael Lewis
 * Flash Boys: A Wall Street Revolt - Michael Lewis
 * Baseball's Forgotten Heroes - Tony Salin
+* War Fever: Boston, Baseball, and America in the Shadow of the Great War - Randy Roberts
+* The Cloudbuster Nine: The Untold Story of Ted Williams and the Baseball Team That Helped Win World War II - Anne R. Keene
+* Smart Baseball: The Story Behind the Old Stats That Are Ruining the Game, the New Ones That Are Running It, and the Right Way to Think About Baseball - Keith Law
