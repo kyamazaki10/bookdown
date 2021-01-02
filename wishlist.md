@@ -4,11 +4,11 @@ Some books to read.
 
 ## Fiction & Literature
 * Norwegian Wood - Haruki Murakami
-* Warrior of the Light: A Manual - Paulo Coelho
 * Ordinary Grace - William Kent Krueger
 * American Pastoral - Philip Roth
 * The Remains of the Day - Kazuo Ishiguro
 * Flowers for Algernon - Daniel Keyes
+* The Midnight Library - Matt Haig
 
 ## Science Fiction & Fantasy
 * Foundation - Isaac Asimov
