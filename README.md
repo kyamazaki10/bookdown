@@ -9,7 +9,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2021
 
 ##### January
-* The Warrior of the Light - Paulo Coelho
+* Warrior of the Light: A Manual - Paulo Coelho
 
 ## 2020
 
