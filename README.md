@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2021
 
+##### February
+* Quiet: The Power of Introverts in a World That Can't Stop Talking - Susan Cain
+
 ##### January
 * Warrior of the Light: A Manual - Paulo Coelho
 
