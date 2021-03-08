@@ -13,13 +13,15 @@ Some books to read.
 ## Science Fiction & Fantasy
 * Foundation - Isaac Asimov
 * Cryptonomicon - Neal Stephenson
+* Snow Crash - Neal Stephenson
 * Seveneves - Neal Stephenson
 * The Martian Chronicles - Ray Bradbury
 * Hyperion - Dan Simmons
-* Twenty Thousand Leagues Under the Sea - Jules Verne
-* The Golden Compass: His Dark Materials - Philip Pullman
-* The Subtle Knife: His Dark Materials - Philip Pullman
-* The Amber Spyglass: His Dark Materials - Philip Pullman
+* Journey to the Center of the Earth - Jules Verne
+* Around the World in 80 Days - Jules Verne
+* The Name of the Wind - Patrick Rothfuss
+* His Dark Materials series - Philip Pullman
+* Wheel of Time series - Robert Jordan
 
 ## Biographies & Memoirs
 * Becoming - Michelle Obama
@@ -44,11 +46,9 @@ Some books to read.
 * The Origin of Species - Charles Darwin
 
 ## Other
-* Quiet: The Power of Introverts in a World That Can't Stop Talking - Susan Cain
 * Outliers: The Story of Success - Malcolm Gladwell
 * Liar's Poker: Rising Through the Wreckage on Wall Street - Michael Lewis
 * Flash Boys: A Wall Street Revolt - Michael Lewis
-* Baseball's Forgotten Heroes - Tony Salin
 * War Fever: Boston, Baseball, and America in the Shadow of the Great War - Randy Roberts
 * The Cloudbuster Nine: The Untold Story of Ted Williams and the Baseball Team That Helped Win World War II - Anne R. Keene
 * Smart Baseball: The Story Behind the Old Stats That Are Ruining the Game, the New Ones That Are Running It, and the Right Way to Think About Baseball - Keith Law
