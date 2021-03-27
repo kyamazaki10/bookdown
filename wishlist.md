@@ -9,6 +9,7 @@ Some books to read.
 * The Remains of the Day - Kazuo Ishiguro
 * Flowers for Algernon - Daniel Keyes
 * The Midnight Library - Matt Haig
+* The House in the Cerulean Sea - TJ Klune
 
 ## Science Fiction & Fantasy
 * Foundation - Isaac Asimov
@@ -17,7 +18,6 @@ Some books to read.
 * Seveneves - Neal Stephenson
 * The Martian Chronicles - Ray Bradbury
 * Hyperion - Dan Simmons
-* Journey to the Center of the Earth - Jules Verne
 * Around the World in 80 Days - Jules Verne
 * The Name of the Wind - Patrick Rothfuss
 * His Dark Materials series - Philip Pullman
