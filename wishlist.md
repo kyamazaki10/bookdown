@@ -18,7 +18,6 @@ Some books to read.
 * Seveneves - Neal Stephenson
 * The Martian Chronicles - Ray Bradbury
 * Hyperion - Dan Simmons
-* Around the World in 80 Days - Jules Verne
 * The Name of the Wind - Patrick Rothfuss
 * His Dark Materials series - Philip Pullman
 * Wheel of Time series - Robert Jordan
