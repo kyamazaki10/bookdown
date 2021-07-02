@@ -8,7 +8,6 @@ Some books to read.
 * American Pastoral - Philip Roth
 * The Remains of the Day - Kazuo Ishiguro
 * Flowers for Algernon - Daniel Keyes
-* The Midnight Library - Matt Haig
 * The House in the Cerulean Sea - TJ Klune
 
 ## Science Fiction & Fantasy

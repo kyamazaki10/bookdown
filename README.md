@@ -8,6 +8,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2021
 
+##### July
+* The Midnight Library - Matt Haig
+
 ##### April
 * Around the World in 80 Days - Jules Verne
 
