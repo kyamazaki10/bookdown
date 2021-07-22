@@ -9,6 +9,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2021
 
 ##### July
+* Smart Baseball: The Story Behind the Old Stats That Are Ruining the Game, the New Ones That Are Running It, and the Right Way to Think About Baseball - Keith Law
 * The Midnight Library - Matt Haig
 
 ##### April
