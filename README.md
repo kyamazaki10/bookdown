@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2021
 
+##### December
+* Renegades: Born in the USA - Barack Obama & Bruce Springsteen
+
 ##### September
 * The Cloudbuster Nine: The Untold Story of Ted Williams and the Baseball Team That Helped Win World War II - Anne R. Keene
 
