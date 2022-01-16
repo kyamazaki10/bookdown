@@ -4,6 +4,11 @@ The list of books I have read since late 2001 in Markdown.
 
 \* reread
 
+## 2022
+
+##### January
+* Foundation - Isaac Asimov
+
 ## 2021
 
 ##### December
