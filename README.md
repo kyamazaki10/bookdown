@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2022
 
+##### February
+* Second Foundation - Isaac Asimov
+
 ##### January
 * Foundation and Empire - Isaac Asimov
 * Foundation - Isaac Asimov
