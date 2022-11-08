@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2022
 
+##### November
+* Foundation and Earth - Isaac Asimov
+
 ##### August
 * How to Be an Antiracist - Ibram X. Kendi
 
