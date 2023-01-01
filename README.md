@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2022
 
+##### December
+* Project Hail Mary - Andy Weir
+
 ##### November
 * Foundation and Earth - Isaac Asimov
 
