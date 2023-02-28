@@ -4,6 +4,11 @@ The list of books I have read since late 2001 in Markdown.
 
 \* reread
 
+## 2023
+
+##### February
+* Ghost Soldiers: The Epic Account of World War II's Greatest Rescue Mission - Hampton Sides
+
 ## 2022
 
 ##### December
