@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2023
 
+##### April
+* Lessons in Chemistry - Bonnie Garmus
+
 ##### March
 * Ikigai: The Japanese Secret to a Long and Happy Life - Hector Garcia & Francesc Miralles
 
