@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2023
 
+##### June
+* Dead Wake: The Last Crossing of the Lusitania - Erik Larson
+
 ##### April
 * Lessons in Chemistry - Bonnie Garmus
 
