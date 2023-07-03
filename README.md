@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2023
 
+##### July
+* On Writing: A Memoir of the Craft - Stephen King
+
 ##### June
 * Dead Wake: The Last Crossing of the Lusitania - Erik Larson
 
