@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2023
 
+##### August
+* Harry Potter and the Prisoner of Azkaban - J.K. Rowling
+
 ##### July
 * Harry Potter and the Chamber of Secrets - J.K. Rowling
 * Harry Potter and the Sorcerer's Stone - J.K. Rowling
