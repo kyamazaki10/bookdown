@@ -4,6 +4,12 @@ The list of books I have read since late 2001 in Markdown.
 
 \* reread
 
+## 2024
+
+##### January
+
+* Harry Potter and the Order of the Phoenix - J.K. Rowling
+
 ## 2023
 
 ##### September
