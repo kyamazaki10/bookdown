@@ -6,6 +6,10 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2024
 
+##### March
+
+* Harry Potter and the Half-Blood Prince - J.K. Rowling
+
 ##### January
 
 * Harry Potter and the Order of the Phoenix - J.K. Rowling
