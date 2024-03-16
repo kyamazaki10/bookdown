@@ -8,6 +8,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### March
 
+* Harry Potter and the Deathly Hallows - J.K. Rowling
 * Harry Potter and the Half-Blood Prince - J.K. Rowling
 
 ##### January
