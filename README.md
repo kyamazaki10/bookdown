@@ -6,6 +6,10 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2024
 
+##### August
+
+* 11/22/63 - Stephen King
+
 ##### April
 
 * Full Body Burden: Growing Up in the Nuclear Shadow of Rocky Flats - Kristen Iversen
