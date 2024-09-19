@@ -6,6 +6,10 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2024
 
+##### September
+
+* Salem's Lot - Stephen King
+
 ##### August
 
 * 11/22/63 - Stephen King
