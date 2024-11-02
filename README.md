@@ -6,6 +6,10 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2024
 
+##### November
+
+* The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz - Erik Larson
+
 ##### September
 
 * Salem's Lot - Stephen King
