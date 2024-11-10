@@ -8,6 +8,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### November
 
+* Kitchen Confidential: Adventures in the Culinary Underbelly - Anthony Bourdain
 * The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz - Erik Larson
 
 ##### September
