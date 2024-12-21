@@ -6,6 +6,10 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2024
 
+##### December
+
+* The Library Book - Susan Orlean
+
 ##### November
 
 * Kitchen Confidential: Adventures in the Culinary Underbelly - Anthony Bourdain
