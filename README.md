@@ -8,6 +8,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### December
 
+* The Martian Chronicles - Ray Bradbury
 * The Library Book - Susan Orlean
 
 ##### November
