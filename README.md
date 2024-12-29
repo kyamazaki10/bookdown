@@ -8,6 +8,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### December
 
+* Killers of the Flower Moon: The Osage Murders and the Birth of the FBI - David Grann
 * The Martian Chronicles - Ray Bradbury
 * The Library Book - Susan Orlean
 
