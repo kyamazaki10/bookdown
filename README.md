@@ -4,6 +4,12 @@ The list of books I have read since late 2001 in Markdown.
 
 \* reread
 
+## 2025
+
+##### January
+
+* Something Wicked This Way Comes - Ray Bradbury
+
 ## 2024
 
 ##### December
