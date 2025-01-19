@@ -8,6 +8,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### January
 
+* Crying in H Mart: A Memoir - Michelle Zauner
 * Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
 * Something Wicked This Way Comes - Ray Bradbury
 
