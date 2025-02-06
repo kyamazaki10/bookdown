@@ -6,6 +6,10 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2025
 
+##### February
+
+* Sea of Glory: America's Voyage of Discovery, The U.S. Exploring Expedition, 1838-1842 - Nathaniel Philbrick
+
 ##### January
 
 * Crying in H Mart: A Memoir - Michelle Zauner
