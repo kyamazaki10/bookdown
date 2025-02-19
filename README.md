@@ -8,6 +8,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### February
 
+* Misery - Stephen King
 * Sea of Glory: America's Voyage of Discovery, The U.S. Exploring Expedition, 1838-1842 - Nathaniel Philbrick
 
 ##### January
