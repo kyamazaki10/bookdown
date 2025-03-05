@@ -6,6 +6,10 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2025
 
+##### March
+
+* Genghis Khan and the Making of the Modern World - Jack Weatherford
+
 ##### February
 
 * Misery - Stephen King
