@@ -8,6 +8,7 @@ The list of books I have read since late 2001 in Markdown.
 
 ##### March
 
+* Red Rising - Pierce Brown
 * Genghis Khan and the Making of the Modern World - Jack Weatherford
 
 ##### February
