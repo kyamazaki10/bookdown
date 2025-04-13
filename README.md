@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2025
 
+##### April
+* Golden Son - Pierce Brown
+
 ##### March
 
 * Red Rising - Pierce Brown
