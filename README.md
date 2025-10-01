@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2025
 
+##### September
+* The Greater Journey: Americans in Paris - David McCullough
+
 ##### June
 * World War Z: An Oral History of the Zombie War - Max Brooks
 
