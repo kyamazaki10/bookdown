@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2025
 
+##### November
+* Life of Pi - Yann Martel
+
 ##### September
 * The Greater Journey: Americans in Paris - David McCullough
 
