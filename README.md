@@ -4,6 +4,11 @@ The list of books I have read since late 2001 in Markdown.
 
 \* reread
 
+## 2026
+
+##### February
+* Team of Rivals: The Political Genius of Abraham Lincoln - Doris Kearns Goodwin
+
 ## 2025
 
 ##### December
