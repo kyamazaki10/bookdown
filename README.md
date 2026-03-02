@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2026
 
+##### March
+* Legends & Lattes - Travis Baldree
+
 ##### February
 * Team of Rivals: The Political Genius of Abraham Lincoln - Doris Kearns Goodwin
 
