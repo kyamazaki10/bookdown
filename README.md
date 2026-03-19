@@ -7,6 +7,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2026
 
 ##### March
+* The Spellshop - Sarah Beth Durst
 * Legends & Lattes - Travis Baldree
 
 ##### February
