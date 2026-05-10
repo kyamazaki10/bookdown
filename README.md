@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2026
 
+##### May
+* Wait Till Next Year (Abridged) - Doris Kearns Goodwin
+
 ##### April
 * The Underground Railroad - Colson Whitehead
 
