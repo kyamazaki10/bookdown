@@ -7,6 +7,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2026
 
 ##### May
+* Dungeon Crawler Carl - Matt Dinniman
 * Five Little Pigs - Agatha Christie
 * Wait Till Next Year (Abridged) - Doris Kearns Goodwin
 
