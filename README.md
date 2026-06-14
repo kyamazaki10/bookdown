@@ -6,6 +6,9 @@ The list of books I have read since late 2001 in Markdown.
 
 ## 2026
 
+##### June
+* The $64 Tomato: How One Man Nearly Lost His Sanity, Spent a Fortune, and Endured an Existential Crisis in the Quest for the Perfect Garden - William Alexander
+
 ##### May
 * Dungeon Crawler Carl - Matt Dinniman
 * Five Little Pigs - Agatha Christie
