@@ -7,6 +7,7 @@ The list of books I have read since late 2001 in Markdown.
 ## 2026
 
 ##### June
+* Dungeon Crawler Carl: Carl's Doomsday Scenario - Matt Dinniman
 * The $64 Tomato: How One Man Nearly Lost His Sanity, Spent a Fortune, and Endured an Existential Crisis in the Quest for the Perfect Garden - William Alexander
 
 ##### May
